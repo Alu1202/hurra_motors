@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "55079202892",
+    "project_id": "hurramotor",
+    "storage_bucket": "hurramotor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55079202892:android:e52e8ace8f6849949144e9",
+        "android_client_info": {
+          "package_name": "com.example.hurra_motors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55079202892-ga5755045ctu7i35crndf5b7d3h47t6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzYmMxhmOzOn549NyqQoiPfthTaCVuj0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55079202892-ga5755045ctu7i35crndf5b7d3h47t6r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55079202892-0vscu60j5lqu83nt8nbv8hjuvuattmjb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hurraMotors"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
